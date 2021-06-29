@@ -4,7 +4,7 @@ Je mu umožnené navštevovať rôzne zaujímavé destinácie. Každá z nich m�
 vykonávať. Tie mu následne môžu zvýšiť alebo znížiť jeho HP (health points) a zvýšiť alebo znížiť jeho skóre. Pri spustení 
 hry je hráč umiestený do stredu plochy, v základnej destinácií Domček, od ktorej sa môže pohybovať vo všetkých smeroch (hore, dole, doľava, doprava).
 Je možné si pozrieť podrobný popis danej destinácie a to tak, že užívateľ na ňu klikne myšou.
-![](https://github.com/absolutty/javaApps/blob/main/DobrodruznaHra/gui.PNG)
+![](https://github.com/absolutty/java.DobrodruznaHra/blob/master/gui.png)
 
 Destinácia **Domček** umožňuje hráčovi úkony:
 - doplniť HP výmenou za jeho skóre (doplňované HP = pocet_skore / 10)
